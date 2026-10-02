@@ -1,0 +1,29 @@
+## 📄 Publication
+
+### Explainable Diabetic Retinopathy Detection using Deep Learning
+
+**Authors:**  
+Pranav Vinod Chaudhari, Devyani Prakash Badgujar, 
+Mandar Ravindra Visave, Akanksha Bharat Chaudhari, 
+Manisha Shantaram Patil
+
+**Journal:** International Research Journal of Engineering and Technology (IRJET)  
+**Volume:** 12  
+**Issue:** 06  
+**Publication:** June 2025  
+
+**Research Area:** Deep Learning, Medical Image Analysis, 
+Diabetic Retinopathy, Explainable AI
+
+### Abstract
+
+This research presents a deep learning-based approach for automated
+detection of diabetic retinopathy from retinal fundus images. The
+study focuses on applying deep learning techniques to classify
+retinal images and identify patterns associated with different
+stages of diabetic retinopathy. Explainable AI techniques are
+incorporated to improve the interpretability of model predictions
+by highlighting important regions of retinal images. The proposed
+approach demonstrates the potential of deep learning and explainable
+AI for supporting automated and transparent analysis of retinal
+medical images.
