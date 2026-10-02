@@ -1,0 +1,2 @@
+# Explainable-Diabetic-Retinopathy-Detection-and-Retinal-Image-Generation
+Explainable deep learning project for automated diabetic retinopathy detection using retinal fundus images. The study explores deep learning models for multi-class classification and uses Grad-CAM to visualize important retinal regions, improving model interpretability and supporting transparent AI-based medical image analysis.
